@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/explosion.mp3",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/explosion.mp3"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/explosion3.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/explosion3.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/explosion3.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/explosion3.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/button.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/button.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/explosion2.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/explosion2.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/bigexplosion.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/bigexplosion.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/button.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/button.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/explosion.mp3",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/explosion.mp3"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/bigexplosion.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/bigexplosion.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/shoot.mp3",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/shoot.mp3"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane/app/build/intermediates/res/merged/debug/raw/get_goods.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane/app/src/main/res/raw/get_goods.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/get_goods.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/get_goods.wav"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/shoot.mp3",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/shoot.mp3"
+    },
+    {
+        "merged": "/Users/Rui/StudioProjects/MyBeatPlane1/app/build/intermediates/res/merged/debug/raw/explosion2.wav",
+        "source": "/Users/Rui/StudioProjects/MyBeatPlane1/app/src/main/res/raw/explosion2.wav"
+    }
+]
